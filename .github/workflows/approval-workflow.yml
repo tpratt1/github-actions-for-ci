@@ -1,1 +1,2 @@
 name: Team Pratt's approval workflow
+on: pull_request_review
